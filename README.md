@@ -6,10 +6,10 @@
 *** 
 ## 规划
 **气象自动化监测、登记系统构想:**
-<img src="../Weather-Recording-Automation-System/IMG/气象自动化监测、登记系统构想.png"> 
+<img src="../IMG/../Weather-Recording-Automation-System/IMG/气象自动化监测、登记系统构想.png"> 
 
 **气象自动化监测、登记系统构思:**
-<img src="../Weather-Recording-Automation-System/IMG/气象自动化监测、登记系统构思.png"> 
+<img src="../IMG/../Weather-Recording-Automation-System/IMG/气象自动化监测、登记系统构思.png"> 
 
 *** 
 **项目贡献者:**  
