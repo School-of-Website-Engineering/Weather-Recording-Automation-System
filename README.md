@@ -5,10 +5,10 @@
 > 是一个比较有意思的小项目，方案不算复杂，设计也存在一些值得改进的地方。
 > 
 **气象自动化监测、登记系统构想**
-![](IMG/气象自动化监测、登记系统构想.png)  
+<img src="../Weather-Recording-Automation-System/IMG/气象自动化监测、登记系统构想.png">
 
 **气象自动化监测、登记系统构思**
-![](IMG/气象自动化监测、登记系统构思.png)
+<img src="../Weather-Recording-Automation-System/IMG/气象自动化监测、登记系统构思.png">
 
 **项目贡献者:**  
 [Mason](https://github.com/mason369)
